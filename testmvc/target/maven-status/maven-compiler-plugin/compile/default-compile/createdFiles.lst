@@ -1,0 +1,3 @@
+com\springtest\Initializer\MyWebAppInitializer.class
+com\springtest\controller\SpringController.class
+com\springtest\configuration\TestConfiguration.class
